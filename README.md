@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... --><div>
+- ⚡ Fun fact: ... -->
+<div>
     <a href="https://soso-shs.tistory.com" target="_blank">
         <img src="https://img.shields.io/badge/티스토리-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
     </a>   
