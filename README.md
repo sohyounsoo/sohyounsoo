@@ -18,6 +18,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/티스토리-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
 </a>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 
