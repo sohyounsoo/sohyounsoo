@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://soso-shs.tistory.com" target="_blank">
-    <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=Tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/티스토리-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
 </a>
