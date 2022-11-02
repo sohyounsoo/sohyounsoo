@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><a href="https://soso-shs.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=000000"/></a>
 
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=social&logo=appveyor&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/>
+<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=social&logo=appveyor&logo=Tistory&logoColor=white&link=내링크"/>
