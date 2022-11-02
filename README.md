@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **sohyounsoo/sohyounsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... 
+-->
 <div>
     <a href="https://soso-shs.tistory.com" target="_blank">
         <img src="https://img.shields.io/badge/티스토리-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
